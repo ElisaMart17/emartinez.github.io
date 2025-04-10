@@ -1,0 +1,97 @@
+/*Background*/
+.bgimg1{
+  background-image: url("Images/forest.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.bgimg2{
+    background-image: url("Images/Path-With-Flowers.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bgimg3{
+    background-image: url("Images/no-trees-path.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bgimg4{
+    background-image: url("Images/Tall-Tree.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bgimg5{
+    background-image: url("Images/River.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bgimg6{
+    background-image: url("Images/Favorite-Flower.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bgimg7{
+    background-image: url("Images/Second-Favorite-Flower.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.bgimg8{
+    background-image: url("Images/Cliff.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bgimg9{
+    background-image: url("Images/rock-wall.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bgimg10{
+    background-image: url("Images/House.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+/*type*/
+.container{
+    background-color: rgb(172, 237, 237);
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6%;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+/*button*/
+.button{
+   background-color: antiquewhite;
+   text-align: center;
+   width: 160px;
+   height: 60px;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight:bolder;
+   font-size: 17px;
+}
+.button:hover{
+    background-color: lightseagreen;
+    border-width: 3px;
+}
+a{
+    text-decoration: none;
+    color: purple;
+}
